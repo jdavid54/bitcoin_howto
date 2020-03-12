@@ -1,4 +1,4 @@
-# Python 2.7.6 - Super simple Elliptic Curve Presentation. No imported libraries, wrappers, nothing. # For educational purposes only
+# Python 3.7.6 - Super simple Elliptic Curve Presentation. No imported libraries, wrappers, nothing. # For educational purposes only
 # Below are the public specs for Bitcoin's curve - the secp256k1
 Pcurve = 2**256 - 2**32 - 2**9 - 2**8 - 2**7 - 2**6 - 2**4 -1 # The proven prime
 N=0xFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBAAEDCE6AF48A03BBFD25E8CD0364141 # Number of points in the field
