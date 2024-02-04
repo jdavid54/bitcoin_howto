@@ -1,4 +1,11 @@
 # bitcoin_howto
 
+Library to install and import: bitcoin
 
-how to methods to deal with bitcoin : sha, hash, block chain,rsa, etc ...
+
+### Some methods to deal with bitcoin : 
+
+- sha,
+- hash,
+- block chain,
+- rsa, etc ...
